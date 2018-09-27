@@ -1,0 +1,11 @@
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\bin\Debug\Kviz_znanja.exe.config
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\bin\Debug\Kviz_znanja.exe
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\bin\Debug\Kviz_znanja.pdb
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.csprojResolveAssemblyReference.cache
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.Form1.resources
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.Form2.resources
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.Form3.resources
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.Properties.Resources.resources
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.csproj.GenerateResource.Cache
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.exe
+c:\users\anavi\documents\visual studio 2015\Projects\Kviz_znanja\Kviz_znanja\obj\Debug\Kviz_znanja.pdb
